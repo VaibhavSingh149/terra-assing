@@ -197,3 +197,19 @@ terraform apply #starts
 - Access denied was a common issue I faced, which was resolved the same way I did before
 - Accidentaly passed security group as a string instead of a list, later figured out sgs are passed as lists
 
+
+
+---
+---
+Work that we did in class
+![alt text](image-9.png)
+
+- checking if it is working 
+![alt text](image-10.png)
+
+- it works, confirmation
+![alt text](image-11.png)
+
+- cleanup
+![alt text](image-12.png)
+

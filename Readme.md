@@ -1,5 +1,8 @@
 # 🚀 Assignment 01: Static Website Deployment on AWS S3 via Terraform
 
+- (AWS_assignment - day-01_assing folder)
+- (Class-deliverables for terraform - class_terra)
+- because imgs were not loading, so I had to push them in seperate folders
 This terraform code demonstrates how to deploy a static HTML website on AWS S3.
 ---
 
